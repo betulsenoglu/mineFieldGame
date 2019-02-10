@@ -1,0 +1,21 @@
+C:\Users\pc\Desktop\C# Temporary Workspace\FORM_MayinTarlasi\mayinTarlasi\mayinTarlasi\bin\Debug\mayinTarlasi.exe
+C:\Users\pc\Desktop\C# Temporary Workspace\FORM_MayinTarlasi\mayinTarlasi\mayinTarlasi\bin\Debug\mayinTarlasi.exe.config
+C:\Users\pc\Desktop\C# Temporary Workspace\FORM_MayinTarlasi\mayinTarlasi\mayinTarlasi\bin\Debug\mayinTarlasi.pdb
+C:\Users\pc\Desktop\C# Temporary Workspace\FORM_MayinTarlasi\mayinTarlasi\mayinTarlasi\obj\Debug\mayinTarlasi.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\C# Temporary Workspace\FORM_MayinTarlasi\mayinTarlasi\mayinTarlasi\obj\Debug\mayinTarlasi.Form1.resources
+C:\Users\pc\Desktop\C# Temporary Workspace\FORM_MayinTarlasi\mayinTarlasi\mayinTarlasi\obj\Debug\mayinTarlasi.GirisEkrani.resources
+C:\Users\pc\Desktop\C# Temporary Workspace\FORM_MayinTarlasi\mayinTarlasi\mayinTarlasi\obj\Debug\mayinTarlasi.Properties.Resources.resources
+C:\Users\pc\Desktop\C# Temporary Workspace\FORM_MayinTarlasi\mayinTarlasi\mayinTarlasi\obj\Debug\mayinTarlasi.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\C# Temporary Workspace\FORM_MayinTarlasi\mayinTarlasi\mayinTarlasi\obj\Debug\mayinTarlasi.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\C# Temporary Workspace\FORM_MayinTarlasi\mayinTarlasi\mayinTarlasi\obj\Debug\mayinTarlasi.exe
+C:\Users\pc\Desktop\C# Temporary Workspace\FORM_MayinTarlasi\mayinTarlasi\mayinTarlasi\obj\Debug\mayinTarlasi.pdb
+C:\Users\Betul\Desktop\GitHub\FORM_MayinTarlasi\mayinTarlasi\mayinTarlasi\bin\Debug\mayinTarlasi.exe.config
+C:\Users\Betul\Desktop\GitHub\FORM_MayinTarlasi\mayinTarlasi\mayinTarlasi\obj\Debug\mayinTarlasi.exe
+C:\Users\Betul\Desktop\GitHub\FORM_MayinTarlasi\mayinTarlasi\mayinTarlasi\obj\Debug\mayinTarlasi.pdb
+C:\Users\Betul\Desktop\GitHub\FORM_MayinTarlasi\mayinTarlasi\mayinTarlasi\bin\Debug\mayinTarlasi.exe
+C:\Users\Betul\Desktop\GitHub\FORM_MayinTarlasi\mayinTarlasi\mayinTarlasi\bin\Debug\mayinTarlasi.pdb
+C:\Users\Betul\Desktop\GitHub\FORM_MayinTarlasi\mayinTarlasi\mayinTarlasi\obj\Debug\mayinTarlasi.csprojResolveAssemblyReference.cache
+C:\Users\Betul\Desktop\GitHub\FORM_MayinTarlasi\mayinTarlasi\mayinTarlasi\obj\Debug\mayinTarlasi.Form1.resources
+C:\Users\Betul\Desktop\GitHub\FORM_MayinTarlasi\mayinTarlasi\mayinTarlasi\obj\Debug\mayinTarlasi.GirisEkrani.resources
+C:\Users\Betul\Desktop\GitHub\FORM_MayinTarlasi\mayinTarlasi\mayinTarlasi\obj\Debug\mayinTarlasi.Properties.Resources.resources
+C:\Users\Betul\Desktop\GitHub\FORM_MayinTarlasi\mayinTarlasi\mayinTarlasi\obj\Debug\mayinTarlasi.csproj.GenerateResource.Cache
